@@ -1,2 +1,2 @@
 # ronnyrosalesblog
-página creada con el curso de creahana
+página creada con el curso de crehana
